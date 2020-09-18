@@ -1,0 +1,413 @@
+# Copyright (C) 2016 Crowdfunding for WooCommerce
+# This file is distributed under the same license as the Crowdfunding for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Crowdfunding for WooCommerce 2.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/crowdfunding-for-woocommerce\n"
+"POT-Creation-Date: 2016-05-24 19:53:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-05-24 23:04+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt_LT\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: crowdfunding-for-woocommerce.php:161
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: crowdfunding-for-woocommerce.php:162
+msgid "Unlock all"
+msgstr "Atrakinti viską"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:42
+#: includes/admin/class-wc-crowdfunding-admin.php:163
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:62
+#: includes/admin/class-wc-settings-crowdfunding.php:22
+msgid "Crowdfunding"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:148
+msgid ""
+"Free plugin's version is limited to 3 crowdfunding products enabled at the same time. "
+"Please visit <a href=\"http://coder.fm/item/crowdfunding-for-woocommerce-plugin/\" target="
+"\"_blank\">plugin's page</a> for more information."
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:226
+msgid "Convert to Crowdfunding Product Version 2"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:228
+msgid ""
+"\"Crowdfunding product\" type is removed since \"Crowdfunding for WooCommerce\" plugin "
+"version 2.x.x. To continue using the plugin, you will need to maually change products type "
+"to variable and create product variations. You can always return back to <a href=\"https://"
+"downloads.wordpress.org/plugin/crowdfunding-for-woocommerce.1.2.0.zip\">1.2.0 version</a>, "
+"however we do not recommed doing so, as you won't be able to get new updates. Please visit "
+"<a href=\"http://coder.fm/item/crowdfunding-for-woocommerce-plugin/\" target=\"_blank"
+"\">plugin's page</a> for more information."
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:232
+msgid "Old (version 1.x.x) variations (only for your reference)"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:235
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:236
+msgid "Price"
+msgstr "Kaina"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:237
+msgid "Description"
+msgstr "Aprašymas"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:249
+msgid "Remove this message (check and Save the product)"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:267
+#: includes/admin/class-wc-crowdfunding-settings-general.php:53
+#: includes/admin/class-wc-crowdfunding-settings-general.php:131
+msgid "Enable"
+msgstr "Įjungti"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:272
+msgid "Goals"
+msgstr "Tikslai"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:278
+#: includes/admin/class-wc-crowdfunding-admin.php:285
+#: includes/admin/class-wc-crowdfunding-admin.php:292
+msgid "Goal"
+msgstr "Tikslas"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:285
+msgid "Backers"
+msgstr "Remėjai"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:292
+msgid "Items"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:297
+msgid "Time"
+msgstr "Laikas"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:303
+msgid "Start Date"
+msgstr "Pradinė data"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:310
+msgid "Start Time"
+msgstr "Pradinis laikas"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:317
+msgid "End Date"
+msgstr "Pabaigos data"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:324
+msgid "End Time"
+msgstr "Pabaigos laikas"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:329
+msgid "Labels"
+msgstr "Etiketė"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:335
+msgid "Add to Cart Button Text (Single)"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:342
+msgid "Add to Cart Button Text (Archive/Category)"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:347
+msgid "Open Price (Name Your Price)"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:353
+msgid "Enable Open Pricing"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-admin.php:360
+msgid "Default Price"
+msgstr "Numatytoji kaina"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:367
+msgid "Min Price"
+msgstr "Minimali kaina"
+
+#: includes/admin/class-wc-crowdfunding-admin.php:374
+msgid "Max Price"
+msgstr "Maksimali kaina"
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:22
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:46
+msgid "Crowdfunding Options"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:52
+msgid "WooCommerce Crowdfunding"
+msgstr ""
+
+#. Description of the plugin/theme
+#: includes/admin/class-wc-crowdfunding-settings-general.php:54
+msgid "Crowdfunding Products for WooCommerce."
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:66
+msgid "Crowdfunding Buttons Options"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:72
+msgid "Default Button Label on Single Product Page"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:73
+#: includes/admin/class-wc-crowdfunding-settings-general.php:82
+msgid "You can change this in product edit on per product basis"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:75
+msgid "Back This Project"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:81
+msgid "Default Button Label on Archive Pages"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:84
+msgid "Read More"
+msgstr "Skaityti daugiau"
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:95
+msgid "Crowdfunding Messages Options"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:101
+msgid "Default Message on Product Not Yet Started"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:104
+msgid "<strong>Not yet started!</strong>"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:110
+msgid "Default Message on Product Ended"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:113
+msgid "<strong>Ended!</strong>"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:124
+msgid "Variable Add to Cart Form Options"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-general.php:130
+msgid "Radio Buttons for Variable Products"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:25
+msgid "Open Pricing (Name Your Price)"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:51
+msgid "Labels and Messages"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:56
+msgid "Frontend Label"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:58
+#: includes/class-wc-crowdfunding-open-pricing.php:220
+msgid "Name Your Price"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:63
+msgid "Message on Empty Price"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:65
+#: includes/class-wc-crowdfunding-open-pricing.php:154
+msgid "Price is required!"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:70
+msgid "Message on Price to Small"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:72
+#: includes/class-wc-crowdfunding-open-pricing.php:158
+msgid "Entered price is to small!"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:77
+msgid "Message on Price to Big"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-open-pricing.php:79
+#: includes/class-wc-crowdfunding-open-pricing.php:164
+msgid "Entered price is to big!"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:22
+msgid "Product Info"
+msgstr "Produkto informacija"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:46
+msgid "Custom Product Tab"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:52
+msgid "Add Product Info to Custom Tab on Single Product Page"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:53
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:105
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:160
+msgid "Add"
+msgstr "Pridėti"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:60
+msgid "Custom Tab Title"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:67
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:112
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:167
+msgid "Info"
+msgstr "Informacija"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:85
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:140
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:190
+msgid "Order"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:98
+msgid "Custom Product Info"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:104
+msgid "Add Product Info to Single Product Page"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:128
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:177
+msgid "Position"
+msgstr "Pozicija"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:133
+msgid "Before single product summary"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:134
+msgid "After single product summary"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:135
+msgid "Inside single product summary"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:153
+msgid "Custom Product Info - Category View"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:159
+msgid "Add Product Info to Archives Pages"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:182
+msgid "Before product"
+msgstr "Prieš produktą"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:183
+msgid "Before product title"
+msgstr "Prieš produkto pavadinimą"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:184
+msgid "After product"
+msgstr "Po produkto"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:185
+msgid "After product title"
+msgstr "Po produkto pavadinimo"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:203
+msgid "Product Price"
+msgstr "Produkto kaina"
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:209
+msgid "Hide Main Price for Variable Crowdfunding Products"
+msgstr ""
+
+#: includes/admin/class-wc-crowdfunding-settings-product-info.php:210
+msgid "Hide"
+msgstr "Paslėpti"
+
+#: includes/class-wc-crowdfunding-open-pricing.php:85
+msgid "Read more"
+msgstr "Skaityti daugiau"
+
+#: includes/class-wc-crowdfunding-shortcodes.php:420
+msgid " day left"
+msgstr ""
+
+#: includes/class-wc-crowdfunding-shortcodes.php:421
+msgid " days left"
+msgstr ""
+
+#: includes/class-wc-crowdfunding-shortcodes.php:422
+msgid " hour left"
+msgstr ""
+
+#: includes/class-wc-crowdfunding-shortcodes.php:423
+msgid " hours left"
+msgstr ""
+
+#: includes/class-wc-crowdfunding-shortcodes.php:424
+msgid " minute left"
+msgstr ""
+
+#: includes/class-wc-crowdfunding-shortcodes.php:425
+msgid " minutes left"
+msgstr ""
+
+#: includes/class-wc-crowdfunding-shortcodes.php:426
+msgid " second left"
+msgstr ""
+
+#: includes/class-wc-crowdfunding-shortcodes.php:427
+msgid " seconds left"
+msgstr ""
+
+#: includes/templates/alg-add-to-cart-variable.php:24
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Crowdfunding for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://coder.fm/item/crowdfunding-for-woocommerce-plugin/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Algoritmika Ltd"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.algoritmika.com"
+msgstr ""
